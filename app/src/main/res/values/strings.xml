@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhysicsBasedAnimation</string>
+
+    <array name="list_name">
+        <item>Simple Demo</item>
+        <item>Chained Spring</item>
+        <item>Ball Spring</item>
+    </array>
+</resources>
